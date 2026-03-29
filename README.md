@@ -117,5 +117,4 @@ Exemple avec *"plou"* : le barycentre tombe au centre de la Bretagne, confirmant
 Cette fonctionnalité permet de **visualiser instantanément la répartition géographique** d'un pattern de nom sur le territoire français.
 
 ## Auteur
-
-Elyes — ESTIAM Paris E5 WMD — Alternance GeoData Paris
+Rihani Malek M1 Géomatique -Géodata Paris
